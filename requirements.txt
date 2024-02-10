@@ -1,0 +1,21 @@
+# basic
+numpy
+pandas
+scipy
+
+#network
+networkx
+
+# plotting
+plotly
+seaborn
+matplotlib
+
+# convert to pdf
+pandoc
+kaleido
+nbconvert
+
+# jupyter
+jupyterlab
+ipywidgets
